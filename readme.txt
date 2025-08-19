@@ -1,0 +1,1 @@
+Para empezar con este proyecto primero creamos todos los archivos necesarios, y se le agrega código progresivaente
